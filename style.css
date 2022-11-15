@@ -6,6 +6,8 @@
 
 body {
 	background: url('/316px-Major_2022.jpg');
+	background-position: center;
+
 	font-size: 36px;
 	font-weight: bold;
 	display: flex;
@@ -14,4 +16,12 @@ body {
 	height: 100%;
 	flex-direction: column;
 	line-height: 50px;
+	text-align: center;
+	color: red;
+	text-shadow: 2px 2px black;
+	letter-spacing: 2px;
+}
+
+.wrapper {
+	margin: auto 1200px;
 }
