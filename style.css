@@ -11,9 +11,7 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	height: 100vh;
-}
-
-p {
-	line-height: 5px;
+	height: 100%;
+	flex-direction: column;
+	line-height: 50px;
 }
